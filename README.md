@@ -2,7 +2,7 @@
 
 Reinforcement Learning - COMS4061A/7071A
 
-Members: Okwukwechukwu Mbajiorgu (2430639), 
+Members: Okwukwechukwu Mbajiorgu (2430639), Adivhaho Nevondo(2580619)
 
 Implementation of the 7x7 Gridworld MDP from the Markov Decision
 Processes lab.
